@@ -1,0 +1,11 @@
+bin/
+build/
+bin/*
+build/*
+*bin/
+*build/
+*bin/*
+*build/*
+*~
+.*.sw*
+*.sw*
